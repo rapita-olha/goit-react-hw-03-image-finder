@@ -2,7 +2,7 @@ import { Component } from 'react';
 import { toast } from 'react-toastify';
 import PropTypes from 'prop-types';
 
-import ImageSearchApi from 'sevices/image-search-api';
+import ImageSearchApi from 'services/image-search-api';
 import Loader from 'components/ImageGallery/Loader';
 import ErrorView from 'components/ImageGallery/ErrorView';
 import IdleView from 'components/ImageGallery/IdleView';

@@ -17,6 +17,7 @@
 .visible {
   transform: translateX(0);
 }
+
 .visible:hover {
   transform: scale(1.1);
   transition: transform 300ms linear;

@@ -1,4 +1,4 @@
-import errorImg from './error-img.png';
+import errorImg from 'components/ImageGallery/ErrorView/error-img.png';
 
 export default function ErrorView() {
   return (
